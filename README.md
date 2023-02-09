@@ -1,5 +1,6 @@
 # DjangoFixed
 This is a project created to Reproduce a bug in Django. 
+#30386 (Admin foreign key widgets don't quote keys.)
 
 # To get started
 $ git clone git@github.com/USERNAME/{{ project_name }}.git
