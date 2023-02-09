@@ -24,11 +24,24 @@ $ python manage.py runserver
 $ Go to the /admin/ URL of your Django application, find the Room object you created, and click on the "Change" link   next to it. On the change page, click on the link or change icon for the House foreign key to see the message         "House with ID "@" doesn't exiat. Perharps it was deleted
 
 
+
+
 # Results
+# Step 1
+
+$ Go to the /admin/ URL of your Django application, find the Room object you created and Click on the "Change" link next to it
+
+![PK!.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK1.jpeg)
 
 
+# Step 2
 
+$ On the change page, click on the link or change icon for the House foreign key to see the message 
 
-![](../../Pictures/PK1.jpeg)
-![](../../Pictures/PK2.jpeg)
-![](../../Pictures/PK3.jpeg)
+![PK2.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK2.jpeg)
+
+# Step 3
+
+$ You get a message "House with ID "@" doesn't exist. Perharps it was deleted ?
+
+![PK3.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK3.jpeg)
