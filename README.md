@@ -14,6 +14,8 @@ Then simply apply the migrations:
 
 $ python manage.py migrate
 
+# To run Project
+
 You can now run the development server:
 
 $ python manage.py runserver
