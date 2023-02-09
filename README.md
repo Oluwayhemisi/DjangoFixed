@@ -29,6 +29,6 @@ $ Go to the /admin/ URL of your Django application, find the Room object you cre
 
 
 
-![](../../Pictures/PK1.jpeg)
+![PK!.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK1.jpeg)
 ![](../../Pictures/PK2.jpeg)
 ![](../../Pictures/PK3.jpeg)
