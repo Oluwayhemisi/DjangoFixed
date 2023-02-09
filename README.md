@@ -3,6 +3,7 @@ This is a project created to Reproduce a bug in Django.
 
 # Getting Started 
 $ git clone git@github.com/USERNAME/{{ project_name }}.git
+
 $ cd {{ project_name }}
 
 Install project dependencies:
