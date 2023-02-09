@@ -21,13 +21,16 @@ You can now run the development server:
 
 $ python manage.py runserver
  
-$ Go to the /admin/ URL of your Django application, find the Room object you created, and click on the "Change" link   next to it. On the change page, click on the link or change icon for the House foreign key to see the message         "House with ID "@" doesn't exiat. Perharps it was deleted
-
 
 # Results
 
 
-
+$ Go to the /admin/ URL of your Django application, find the Room object you created
 ![PK!.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK1.jpeg)
+
+$ Click on the "Change" link next to it
 ![PK2.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK2.jpeg)
+
+$ On the change page, click on the link or change icon for the House foreign key to see the message "House with ID "@" doesn't exiat. Perharps it was deleted ?
+
 ![PK3.png](https://github.com/Oluwayhemisi/DjangoFixed/blob/main/PK3.jpeg)
